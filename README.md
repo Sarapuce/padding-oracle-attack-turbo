@@ -3,6 +3,11 @@ _**Padding Oracle attack fully explained and coded from scratch in Python3.**_
 
 | This is a fork of this [repository](https://github.com/flast101/padding-oracle-attack-explained). I added multithreading to speed up the cracking process, and I still need to implement initial padding detection to make it even faster.
 
+With a rootme challenge I use for benchmark :
+- Classical version : 92 seconds
+- Turbo version : 35 seconds
+
+
 ### Summary  
 
 [1- Overview](https://github.com/flast101/padding-oracle-attack-explained#1--overview)   
